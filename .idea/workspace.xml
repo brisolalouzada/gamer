@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8326378e-97d7-4640-8fd9-4caa2cbbcd02" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/code3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/boundary1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/class1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/class3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/enemy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/entity1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/entityFactory.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/level.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code3/name.py" afterDir="false" />
+    <list default="true" id="8326378e-97d7-4640-8fd9-4caa2cbbcd02" name="Changes" comment="adding classes generated fron StarUML">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code3/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code3/game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code3/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code3/menu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +55,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlouz\PythonProjectgamer\code3" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -119,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754961517356</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding classes generated fron StarUML">
+      <option name="closed" value="true" />
+      <created>1755015914219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1755015914219</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="adding classes generated fron StarUML" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding classes generated fron StarUML" />
   </component>
 </project>
