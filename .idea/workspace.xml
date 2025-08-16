@@ -4,11 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8326378e-97d7-4640-8fd9-4caa2cbbcd02" name="Changes" comment="adding classes generated fron StarUML">
+    <list default="true" id="8326378e-97d7-4640-8fd9-4caa2cbbcd02" name="Changes" comment="creating main loop&#10;Connecting Menu and game classes">
+      <change afterPath="$PROJECT_DIR$/asset/1_0001_Ship1_lvl4_damage_010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/396269__gis_sweden__zilly-pop.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Battleground1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/Battleground3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/fireflys.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/gamer.mp3.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/grass&amp;road.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/grasses.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/hills&amp;trees.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img atualizado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img principal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/img2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/jungle_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/lianas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ruins.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ruins2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/ruins_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/sky.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/statue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/stones&amp;grass.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/tree_face.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asset/trees&amp;bushes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code3/const.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code3/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/code3/game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code3/menu.py" beforeDir="false" afterPath="$PROJECT_DIR$/code3/menu.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +70,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.game.executor&quot;: &quot;Run&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.menu.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -57,6 +81,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rlouz\PythonProjectgamer\asset" />
       <recent name="C:\Users\rlouz\PythonProjectgamer\code3" />
     </key>
   </component>
@@ -123,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755015914219</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="creating main loop&#10;Connecting Menu and game classes">
+      <option name="closed" value="true" />
+      <created>1755018439129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1755018439129</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +185,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="adding classes generated fron StarUML" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding classes generated fron StarUML" />
+    <MESSAGE value="creating main loop&#10;Connecting Menu and game classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating main loop&#10;Connecting Menu and game classes" />
   </component>
 </project>
